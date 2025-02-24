@@ -220,10 +220,10 @@ export const experience: ExperienceType[] = [
 
 export const projects: ProjectType[] = [
   {
-    name: "developer-portfolio",
+    name: "portfolio",
     desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
     github: "https://github.com/topnotchbusiness/portfolio",
-    // link: "https://developer-portfolio-1hanzla100.vercel.app/",
+    // link: "https://portfolio-1hanzla100.vercel.app/",
   },
   // {
   //   name: "Giebo",
@@ -269,7 +269,7 @@ export const seoData: SEODataType = {
   description: greetings.description,
   author: USER_NAME,
   image: "https://avatars.githubusercontent.com/u/59178380?v=4",
-  // url: "https://developer-portfolio-1hanzla100.vercel.app",
+  // url: "https://portfolio-1hanzla100.vercel.app",
   keywords: [
     USER_NAME.split(" ")[0],
     USER_NAME,

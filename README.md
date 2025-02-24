@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to developer-portfolio 👋</h1>
-<a href="https://github.com/topnotchbusiness/portfolio/blob/main/LICENSE"><img alt="GitHub issues" src="https://github.com/topnotchbusiness/portfolio"></a><a href="https://github.com/topnotchbusiness/portfolio/network"><img alt="GitHub forks" src="https://github.com/topnotchbusiness/portfolio/developer-portfolio"></a> <a href="https://github.com/topnotchbusiness/portfolio/stargazers"></a>
+<h1 align="center">Welcome to portfolio 👋</h1>
+<a href="https://github.com/topnotchbusiness/portfolio/blob/main/LICENSE"><img alt="GitHub issues" src="https://github.com/topnotchbusiness/portfolio"></a><a href="https://github.com/topnotchbusiness/portfolio/network"><img alt="GitHub forks" src="https://github.com/topnotchbusiness/portfolio/portfolio"></a> <a href="https://github.com/topnotchbusiness/portfolio/stargazers"></a>
 
 ## Software Developer Portfolio Template built with Next.js, bootstrap that helps you showcase your work and skills as a software developer.
 
@@ -17,7 +17,6 @@ If you created something awesome and want to contribute then feel free to open a
 ✔️ Skills\
 ✔️ Education\
 ✔️ Work Experience\
-✔️ Feedbacks\
 ✔️ Projects\
 ✔️ Github Profile
 
@@ -41,13 +40,13 @@ git@2.17.1 or higher
 1. Fork this repository and clone it to your local machine.
 
 ```bash
-$ git clone https://github.com/<your-username>/developer-portfolio.git
+$ git clone https://github.com/<your-username>/portfolio.git
 ```
 
 2. Go into the repository
 
 ```bash
-$ cd developer-portfolio
+$ cd portfolio
 ```
 
 3. Install dependencies
