@@ -220,46 +220,44 @@ export const experience: ExperienceType[] = [
 
 export const projects: ProjectType[] = [
   {
-    name: "portfolio",
+    name: "Portfolio",
     desc: "Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.",
     github: "https://github.com/topnotchbusiness/portfolio",
-    // link: "https://portfolio-1hanzla100.vercel.app/",
+    skills: ["Next.js", "Reactstrap", "Bootstrap", "Github"],
+    link: "https://portfolio-git-without-contract-denis-bradus-projects.vercel.app/",
   },
-  // {
-  //   name: "Giebo",
-  //   desc: "A Podcast Platform where creators can easily publish and sell their podcasts, and users can purchase with Handcash BitcoinSV, the future of fast and secure transactions.",
-  //   link: "https://gibeo.io/",
-  // },
-  // {
-  //   name: "O Mejor Oferta",
-  //   desc: "O Mejor Oferta is a mobile marketplace for buying and selling items nearby, helping users find deals on things they want and make money from items they no longer need.",
-  //   link: "https://play.google.com/store/apps/details?id=com.duseca.mejor_oferta",
-  // },
-  // {
-  //   name: "Hooligan Culture",
-  //   desc: "A Ecommerce Platform, where shopping meets the future! With HandCash BitcoinSV integration, you can authenticate and purchase products with ease and confidence.",
-  //   link: "https://hooliganculture.com/",
-  // },
+  {
+    name: "Probate",
+    desc: "Probate is a web application designed to simplify the estate management and will administration process. It helps users track documents, deadlines, and tasks, making the probate process more efficient and organized for executors, attorneys, and individuals involved.",
+    skills: ["Frontend Development", "React.js", "Redux", "React-hook", "Node.js", "Express.js", "Ant Design", "CSS", "Github"],
+    link: "Private",
+  },
+  {
+    name: "Volition",
+    desc: "Volition is a comprehensive web application designed to support individuals recovering from cocaine addiction. Volition helps healthcare providers monitor patient behavior, track recovery milestones, and offer personalized care solutions in a seamless and effective manner.",
+    skills: ["React.js", "Redux", "React-hook", "Node.js", "Express.js", "Material UI", "SCSS", "FireBase", "BitBucket"],
+    link: "Private",
+  },
+  {
+    name: "Print and Frame It",
+    desc: "Print and Frame It is an E-commerce platform that allows users to upload their photos, choose custom frames, and have the framed photo delivered to their doorstep. The platform ensures a smooth and responsive shopping experience. This solution simplifies the process of printing and framing photos, delivering high-quality, personalized products to customers.",
+    skills: ["React.js", "Redux", "React-hook", "Node.js", "Express.js", "Material UI", "SCSS", "MongoDB", "Cloudinary", "Gitlab"],
+    link: "Private",
+  },
 ];
 
 export const feedbacks: FeedbackType[] = [
   {
-    name: "Syed Jamal",
-    role: "Frontend Developer at Meganos Software",
+    name: "Leon Nguyen",
+    role: "Frontend Developer",
     feedback:
-      "You were a wonderful addition to our team, alhumdulillah. I'm quite impressed with your abilities and professional practices. You approach problems from a unique perspective and always ask the right question. Finding a good teammate like Hanzla is extremely difficult. He has contributed to the growth of our organization and continues to do so. May Allah bless you with everything you desire.",
+      "Great job. Did things very quickly and went above and beyond to help me. I really appreciate Denis's quick response and skillset.",
   },
   {
-    name: "Wajahat Malek",
-    role: "CEO at Duseca Software",
+    name: "Tariq Naeem",
+    role: "React.js frontend developer",
     feedback:
-      "Hanzla has a deep understanding of web development technologies and is adept at using them to build scalable, robust, and secure web applications. He has worked on various projects, ranging from small-scale to large-scale, and has shown his ability to work collaboratively with others while maintaining a high level of productivity and quality. Hanzla is a pleasure to work with, and I have no doubt that he will be an asset to any team or organization. I highly recommend Hanzla for any Full Stack Django, React.js, or Blockchain development projects, and I wish him all the best in his future endeavors.",
-  },
-  {
-    name: "Zaid Zaffar",
-    role: "CEO at ZR Technologies",
-    feedback:
-      "Very skilled at what he does and has an in depth knowledge of Django and he's always ready to handle any challenges thrown at him. He's been a valuable member of my team and i look forward to working with him in the years to come",
+      "Denis is an exceptional React.js developer with a strong grasp of modern UI frameworks. He writes clean, efficient, and scalable code while paying close attention to performance and design details. Beyond his technical skills, he’s a proactive problem-solver and a great communicator, always going above and beyond. Highly recommended!",
   },
 ];
 

@@ -15,6 +15,13 @@ const FeedbackCard = ({ name, role, feedback }: FeedbackType) => {
             <CardSubtitle tag="h6" className="mb-2">
               {role}
             </CardSubtitle>
+            <div>
+              <i className="fa fa-star text-success" />
+              <i className="fa fa-star text-success" />
+              <i className="fa fa-star text-success" />
+              <i className="fa fa-star text-success" />
+              <i className="fa fa-star text-success" />
+            </div>
             <p className="description mt-2">{feedback}</p>
           </div>
         </div>
