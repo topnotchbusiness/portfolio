@@ -12,7 +12,7 @@ const ProjectsCard = ({ name, desc, github, link }: ProjectType) => {
             <div className="pl-4">
               <h3>{name}</h3>
               <p className="description mt-3">{desc}</p>
-              {github ? (
+              {/* {github ? (
                 <Button
                   className="btn-icon"
                   color="github"
@@ -40,7 +40,7 @@ const ProjectsCard = ({ name, desc, github, link }: ProjectType) => {
                   </span>
                   <span className="nav-link-inner--text ml-1">Demo</span>
                 </Button>
-              ) : null}
+              ) : null} */}
             </div>
           </div>
         </CardBody>

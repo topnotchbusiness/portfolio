@@ -25,7 +25,7 @@ const GithubProfileCard = ({ avatar_url, bio, location }: GithubUserType) => {
                 <i className="ni ni-pin-3 text-info mr-2" />
                 {"Chisinau, Moldova Republic of"}
               </div>
-              <SocialLinks />
+              {/* <SocialLinks /> */}
             </Col>
           </Row>
         </div>
